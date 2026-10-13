@@ -21,6 +21,12 @@ Simulated a Windows 11 Pro IT help desk environment to practice local user accou
 ## Results
 Confirmed that Windows restricted elevated operations while allowing standard Command Prompt access. No permission changes were necessary.
 
+## Help Desk Support Ticket
+
+- [Ticket #001 - User Account Permissions](TICKET%20%23001-User-Permissions.txt)
+
+This simulated support ticket documents the reported access issue, troubleshooting steps, findings, and verification of Windows security controls.
+
 ## Skills Demonstrated
 - Windows User Account Management
 - User Permissions and Least Privilege
