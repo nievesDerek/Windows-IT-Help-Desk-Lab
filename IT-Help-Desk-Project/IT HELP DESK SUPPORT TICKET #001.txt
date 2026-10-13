@@ -1,0 +1,24 @@
+IT HELP DESK SUPPORT TICKET #001
+
+Ticket Type: User Account Permissions
+Operating System: Windows 11 Pro
+Affected User: IT-TestUser
+Priority: Low - Training Simulation
+
+Issue Description:
+A standard user attempted to launch Command Prompt with administrator privileges. Windows requested administrator credentials
+
+Troubleshooting Steps:
+1) Verified IT-TestUser was configured as a Standard User
+2) Attempted to launch Command Prompt as administrator. 
+3) Confirmed Windows requested administrator credentials
+4) Canceled the elevation request without entering credentials
+5) Launched Command Prompt normally and verified successful access
+
+Findings:
+Windows User Account Control (UAC) correctly restricted elevated access while allowing standard command-line operations.
+
+Resolution:
+Confirmed expected security behavior. No permission changes were required.
+
+Status: Closed - Expected behavior verified.
